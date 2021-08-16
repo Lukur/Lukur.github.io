@@ -895,6 +895,14 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   color: rgb(255, 213, 62);
 }
 
+.services.color-8 {
+  border-bottom: 2px solid #226f33;
+}
+
+.services.color-8 .icon2 i {
+  color: #226f33;
+}
+
 .services {
   margin-bottom: 30px;
   position: relative;
